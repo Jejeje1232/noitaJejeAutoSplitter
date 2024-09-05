@@ -22,7 +22,7 @@ startup {
 }
 
 init {
-	string logPath = "E:\\Steam\\steamapps\\common\\Noita\\logger.txt";
+	string logPath = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Noita\\logger.txt";
 	try {
 		FileStream fs = new FileStream(logPath, FileMode.Open, FileAccess.Write, FileShare.ReadWrite);
 		fs.SetLength(0);
