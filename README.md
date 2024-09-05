@@ -3,7 +3,7 @@ I created this autosplitter for Noita to cover as many categories as possible, a
 
 I made it to work by default with [Smickles Splits](https://www.speedrun.com/noita/resources/tvoht), but changing the config in the Scriptable Auto Splitter settings (In the Layout Settings) should make it work with almost any layout (that I can think of) for other categories (Except orb-based splitting, since at least for now I haven't figured out how the game keeps track of orb pickups).
 
-These are the defaults:
+These are the defaults:\n
 ![Default](https://cdn.discordapp.com/attachments/725845822369169469/1281233689069748297/image.png?ex=66daf95b&is=66d9a7db&hm=d67e362cd48b23685390e3833bcc09cb78a99b8c41afef79728c994fde305bed&)
 
 If you use a single split setup (More general) you can set it like this:
