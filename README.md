@@ -20,3 +20,6 @@ It needs the [Enable Logger](https://steamcommunity.com/sharedfiles/filedetails/
 
 #Note
 This MAY break if the game updates (Only the Completed Screen detection).
+
+#Note2
+There is a possibility to skip a Holy Mountain split if you go too fast past it, and I don't know why, since it registers it well, but anyways, most people use the single split setup, so it doesn't really matter.
